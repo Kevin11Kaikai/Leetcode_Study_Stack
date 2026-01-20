@@ -1,4 +1,3 @@
-# Leetcode_Study_Stack  
 # Leetcode 20: Valid Parentheses
 
 ## Problem Summary
